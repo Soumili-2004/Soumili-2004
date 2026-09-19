@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 <h3 align="center">Hello! I'm Soumili Ghosh, Third year B.Tech CSE student at Academy of Technology (AOT)</h3>
 
-• I’m currently working on Smart Attendance Monitoring System<br>• I’m currently learning: DSA, Full-Stack Development, AI/ML<br>• Content Lead at GDG OC AOT<br>• Ex-Google Campus Ambassador<br>• I'm Open to Internships & Collaborations<br>• How to reach me: soumilipiu123@gmail.com<br>• Fun fact: I can complete a 1000+ page story book in a day<br>
+• I’m currently working on Smart Attendance Monitoring System, Final Year Project<br>• I’m currently learning: DSA, Full-Stack Development, AI/ML<br>• Content Lead at GDG OC AOT<br>• Ex-Google Campus Ambassador<br>• I'm Open to Internships & Collaborations<br>• How to reach me: soumilipiu123@gmail.com<br>• Fun fact: I can complete a 1000+ page story book in a day<br>
 
 
 ## 🌐 Socials:
